@@ -1,7 +1,7 @@
-const media = require('./ejercicio2').media;
-const mediana = require('./ejercicio2').mediana;
-const moda = require('./ejercicio2').moda;
-const rango = require('./ejercicio2').rango
+const media = require('./ejercicio1').media;
+const mediana = require('./ejercicio1').mediana;
+const moda = require('./ejercicio1').moda;
+const rango = require('./ejercicio1').rango;
 
 test('media', () => {
     const entrada1 = [12, 4, 2]
